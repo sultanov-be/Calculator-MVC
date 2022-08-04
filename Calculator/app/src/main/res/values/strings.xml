@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="c_value">C</string>
+    <string name="backspace_val">⌫</string>
+    <string name="p1_val">(</string>
+    <string name="p2_val">)</string>
+    <string name="div_val">/</string>
+    <string name="val_7">7</string>
+    <string name="val_8">8</string>
+    <string name="val_9">9</string>
+    <string name="mul">*</string>
+    <string name="val_4">4</string>
+    <string name="val_5">5</string>
+    <string name="val_6">6</string>
+    <string name="minus">-</string>
+    <string name="val_1">1</string>
+    <string name="val_2">2</string>
+    <string name="val_3">3</string>
+    <string name="plus">+</string>
+</resources>
